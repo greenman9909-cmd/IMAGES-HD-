@@ -1,7 +1,10 @@
-# IMAGES-HD-
+# HD Image Assets
 
----
+High-resolution visual assets used across design experiments and application prototypes.
 
-### Support
+## Repository role
+- Centralized HD imagery
+- Visual references for frontend work
+- Reusable project assets
 
-If you enjoy this project and want to support more builds, you can optionally [support me on Ko-fi](https://ko-fi.com/yorusayano).
+Large media files are intentionally kept separate from application repositories when practical.
